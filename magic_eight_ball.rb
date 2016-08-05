@@ -2,7 +2,10 @@ require 'pry'
 while true
   @absalute_answers = [ "haha Great question!", 
         "No, but you shoud eat a Hot Dog!", 
-        "Having a hard time believing you!"
+        "Having a hard time understanding you!",
+        "Why would you ask a question like that?",
+        "Absolutely", "I think that you should really consider your options",
+        "You will never find what you are looking for, sorry."
       ]
   @input_answers = []
 
